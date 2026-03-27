@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+requests
+openai
+beautifulsoup4
+selenium
+webdriver-manager
+lxml==4.9.3  
+lxml_html_clean
+cssselect
